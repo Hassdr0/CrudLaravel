@@ -2,10 +2,8 @@
   <img src="Bentodog.jpg" width="210" alt="Bentodog">
 </p>
 
-=====================================================
                  CRUD EM LARAVEL
                  Projeto Avaliativo
-=====================================================
 
 Este projeto foi desenvolvido como parte de uma prova
 prática da faculdade, com o objetivo de aplicar os
